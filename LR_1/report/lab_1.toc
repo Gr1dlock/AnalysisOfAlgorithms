@@ -1,0 +1,19 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{Введение}{3}% 
+\contentsline {chapter}{\numberline {1}Аналитическая часть}{5}% 
+\contentsline {section}{\numberline {1.1}Расстояние Левенштейна}{5}% 
+\contentsline {section}{\numberline {1.2}Расстояние Дамерау-Левенштейна}{6}% 
+\contentsline {section}{\numberline {1.3}Практическое применение}{7}% 
+\contentsline {chapter}{\numberline {2}Конструкторская часть}{8}% 
+\contentsline {section}{\numberline {2.1}Схемы алгоритмов}{9}% 
+\contentsline {section}{\numberline {2.2}Сравнительный анализ матричной и рекурсивной реализаций}{14}% 
+\contentsline {chapter}{\numberline {3}Технологическая часть}{16}% 
+\contentsline {section}{\numberline {3.1}Требования к ПО}{16}% 
+\contentsline {section}{\numberline {3.2}Средства реализации}{16}% 
+\contentsline {section}{\numberline {3.3}Листинги кода}{16}% 
+\contentsline {chapter}{\numberline {4}Эксперементальная часть}{19}% 
+\contentsline {section}{\numberline {4.1}Примеры работы}{19}% 
+\contentsline {section}{\numberline {4.2}Функциональное тестирование}{20}% 
+\contentsline {section}{\numberline {4.3}Сравение матричных алгоритмов}{21}% 
+\contentsline {section}{\numberline {4.4}Сравнение реализаций алгоритма Дамерау-Левенштейна}{22}% 
+\contentsline {chapter}{Заключение}{23}% 
