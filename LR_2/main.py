@@ -16,27 +16,27 @@ def print_matrix(matrix):
 
 
 if __name__ == '__main__':
-    for i in range(100, 1100, 100):
+    for i in range(800, 1100, 100):
         stand_time = 0
         vinograd_time = 0
         optimized_time = 0
         a = random_matrix(i, i)
         b = random_matrix(i, i)
-        for j in range(100):
-            time_1 = time.perf_counter()
+        for j in range(10):
+            time_1 = time.process_time()
             multiplication.standard_multiply(a , b)
-            time_2 = time.perf_counter()
+            time_2 = time.process_time()
             multiplication.vinograd_multiply(a, b)
-            time_3 = time.perf_counter()
+            time_3 = time.process_time()
             multiplication.optimized_vinograd_multiply(a, b)
-            time_4 = time.perf_counter()
+            time_4 = time.process_time()
             stand_time += time_2 - time_1
             vinograd_time += time_3 - time_2
             optimized_time += time_4 - time_3
         print(i, 'x', i, ' matrix')
-        print('Standard time: {:.7f}'.format(stand_time / 100))
-        print('Vinograd time: {:.7f}'.format(vinograd_time / 100))
-        print('Optimized  time: {:.7f}'.format(optimized_time / 100))
+        print('Standard time: {:.7f}'.format(stand_time / 10))
+        print('Vinograd time: {:.7f}'.format(vinograd_time / 10))
+        print('Optimized  time: {:.7f}'.format(optimized_time / 10))
         print()
 
     for i in range(101, 1101, 100):
@@ -45,21 +45,21 @@ if __name__ == '__main__':
         optimized_time = 0
         a = random_matrix(i, i)
         b = random_matrix(i, i)
-        for j in range(100):
-            time_1 = time.perf_counter()
+        for j in range(10):
+            time_1 = time.process_time()
             multiplication.standard_multiply(a , b)
-            time_2 = time.perf_counter()
+            time_2 = time.process_time()
             multiplication.vinograd_multiply(a, b)
-            time_3 = time.perf_counter()
+            time_3 = time.process_time()
             multiplication.optimized_vinograd_multiply(a, b)
-            time_4 = time.perf_counter()
+            time_4 = time.process_time()
             stand_time += time_2 - time_1
             vinograd_time += time_3 - time_2
             optimized_time += time_4 - time_3
         print(i, 'x', i, ' matrix')
-        print('Standard time: {:.7f}'.format(stand_time / 100))
-        print('Vinograd time: {:.7f}'.format(vinograd_time / 100))
-        print('Optimized  time: {:.7f}'.format(optimized_time / 100))
+        print('Standard time: {:.7f}'.format(stand_time / 10))
+        print('Vinograd time: {:.7f}'.format(vinograd_time / 10))
+        print('Optimized  time: {:.7f}'.format(optimized_time / 10))
         print()
 
 

@@ -1,0 +1,17 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{Введение}{3}% 
+\contentsline {chapter}{\numberline {1}Аналитическая часть}{5}% 
+\contentsline {section}{\numberline {1.1}Стандартный алгоритм}{5}% 
+\contentsline {section}{\numberline {1.2}Алгоритм Копперсмита-Винограда}{6}% 
+\contentsline {chapter}{\numberline {2}Конструкторская часть}{7}% 
+\contentsline {section}{\numberline {2.1}Схемы алгоритмов}{8}% 
+\contentsline {section}{\numberline {2.2}Расчет трудоемкости}{18}% 
+\contentsline {chapter}{\numberline {3}Технологическая часть}{20}% 
+\contentsline {section}{\numberline {3.1}Требования к ПО}{20}% 
+\contentsline {section}{\numberline {3.2}Средства реализации}{20}% 
+\contentsline {section}{\numberline {3.3}Листинги кода}{20}% 
+\contentsline {chapter}{\numberline {4}Эксперементальная часть}{23}% 
+\contentsline {section}{\numberline {4.1}Примеры работы}{23}% 
+\contentsline {section}{\numberline {4.2}Функциональное тестирование}{24}% 
+\contentsline {section}{\numberline {4.3}Сравение алгоритмов по времени}{25}% 
+\contentsline {chapter}{Заключение}{27}% 
