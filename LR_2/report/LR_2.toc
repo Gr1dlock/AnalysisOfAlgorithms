@@ -10,8 +10,8 @@
 \contentsline {section}{\numberline {3.1}Требования к ПО}{20}% 
 \contentsline {section}{\numberline {3.2}Средства реализации}{20}% 
 \contentsline {section}{\numberline {3.3}Листинги кода}{20}% 
-\contentsline {chapter}{\numberline {4}Эксперементальная часть}{23}% 
+\contentsline {chapter}{\numberline {4}Экспериментальная часть}{23}% 
 \contentsline {section}{\numberline {4.1}Примеры работы}{23}% 
 \contentsline {section}{\numberline {4.2}Функциональное тестирование}{24}% 
-\contentsline {section}{\numberline {4.3}Сравение алгоритмов по времени}{25}% 
-\contentsline {chapter}{Заключение}{27}% 
+\contentsline {section}{\numberline {4.3}Сравение алгоритмов по времени}{24}% 
+\contentsline {section}{Заключение}{26}% 

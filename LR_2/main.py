@@ -9,14 +9,17 @@ def random_matrix(m, n):
 
 
 def print_matrix(matrix):
-    for i in matrix:
-        for j in i:
-            print(j, end=' ')
-        print()
+    if not matrix:
+        print('Invalid matrix')
+    else:
+        for i in matrix:
+            for j in i:
+                print(j, end=' ')
+            print()
 
 
-if __name__ == '__main__':
-    for i in range(800, 1100, 100):
+def compare_time():
+    for i in range(100, 1100, 100):
         stand_time = 0
         vinograd_time = 0
         optimized_time = 0
@@ -38,6 +41,7 @@ if __name__ == '__main__':
         print('Vinograd time: {:.7f}'.format(vinograd_time / 10))
         print('Optimized  time: {:.7f}'.format(optimized_time / 10))
         print()
+
 
     for i in range(101, 1101, 100):
         stand_time = 0
@@ -62,4 +66,10 @@ if __name__ == '__main__':
         print('Optimized  time: {:.7f}'.format(optimized_time / 10))
         print()
 
+
+if __name__ == '__main__':
+    A = [[2, 7], [1, 3]]
+    B = [[-3, 7], [1, -2]]
+    C = multiplication.standard_multiply(A, B)
+    print_matrix(C)
 

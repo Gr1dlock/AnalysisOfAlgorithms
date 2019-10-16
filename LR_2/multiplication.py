@@ -1,9 +1,9 @@
 def standard_multiply(a, b):
     m = len(a)
     n = len(b)
-    q = len(b[0])
-    if len(a[0]) != n:
+    if m == 0 or n == 0 or len(a[0]) != n:
         return None
+    q = len(b[0])
     c = [[0 for i in range(q)] for j in range(m)]
     for i in range(m):
         for j in range(q):
@@ -15,9 +15,9 @@ def standard_multiply(a, b):
 def vinograd_multiply(a, b):
     m = len(a)
     n = len(b)
-    q = len(b[0])
-    if len(a[0]) != n:
+    if m == 0 or n == 0 or len(a[0]) != n:
         return None
+    q = len(b[0])
     # Part I
     r = n // 2
     mul_a = [0] * m
@@ -51,10 +51,9 @@ def vinograd_multiply(a, b):
 def optimized_vinograd_multiply(a, b):
     m = len(a)
     n = len(b)
-    q = len(b[0])
-    if len(a[0]) != n:
+    if m == 0 or n == 0 or len(a[0]) != n:
         return None
-
+    q = len(b[0])
     # Part I
     mul_a = [0] * m
     for i in range(m):

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  16 OCT 2019 23:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  17 OCT 2019 01:00
 entering extended mode
 **./LR_2.tex
 (LR_2.tex
@@ -867,20 +867,20 @@ LaTeX Warning: File `OptimizedOdd.dat' already exists on the system.
 (LR_2.aux)
 \openout1 = `LR_2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -978,7 +978,7 @@ ABD: EveryShipout initializing macros
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
- on input line 134.
+ on input line 133.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -1015,26 +1015,26 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 187--189
+Underfull \hbox (badness 10000) in paragraph at lines 186--188
 
  []
 
 [4]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--236
+Underfull \hbox (badness 10000) in paragraph at lines 233--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
  []
 
@@ -1048,52 +1048,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 237--238
 <Standart1.png, id=43, 250.68657pt x 557.83406pt>
 File: Standart1.png Graphic file (type png)
 <use Standart1.png>
-Package pdftex.def Info: Standart1.png  used on input line 263.
+Package pdftex.def Info: Standart1.png  used on input line 262.
 (pdftex.def)             Requested size: 250.68594pt x 557.83269pt.
  [8 <./Standart1.png>]
 <Standart2.png, id=47, 137.01187pt x 394.47375pt>
 File: Standart2.png Graphic file (type png)
 <use Standart2.png>
-Package pdftex.def Info: Standart2.png  used on input line 269.
+Package pdftex.def Info: Standart2.png  used on input line 268.
 (pdftex.def)             Requested size: 137.01154pt x 394.47278pt.
  [9 <./Standart2.png>]
 <Vinograd1.png, id=51, 229.60782pt x 565.36218pt>
 File: Vinograd1.png Graphic file (type png)
 <use Vinograd1.png>
-Package pdftex.def Info: Vinograd1.png  used on input line 275.
+Package pdftex.def Info: Vinograd1.png  used on input line 274.
 (pdftex.def)             Requested size: 229.60725pt x 565.3608pt.
  [10 <./Vinograd1.png>]
 <Vinograd2.png, id=55, 146.79843pt x 630.10406pt>
 File: Vinograd2.png Graphic file (type png)
 <use Vinograd2.png>
-Package pdftex.def Info: Vinograd2.png  used on input line 280.
+Package pdftex.def Info: Vinograd2.png  used on input line 279.
 (pdftex.def)             Requested size: 146.79807pt x 630.10252pt.
  [11 <./Vinograd2.png>]
 <Vinograd3.png, id=59, 188.20313pt x 636.12656pt>
 File: Vinograd3.png Graphic file (type png)
 <use Vinograd3.png>
-Package pdftex.def Info: Vinograd3.png  used on input line 285.
+Package pdftex.def Info: Vinograd3.png  used on input line 284.
 (pdftex.def)             Requested size: 188.20265pt x 636.125pt.
  [12 <./Vinograd3.png>]
 <Vinograd4.png, id=63, 182.93344pt x 493.845pt>
 File: Vinograd4.png Graphic file (type png)
 <use Vinograd4.png>
-Package pdftex.def Info: Vinograd4.png  used on input line 290.
+Package pdftex.def Info: Vinograd4.png  used on input line 289.
 (pdftex.def)             Requested size: 182.93298pt x 493.84378pt.
  [13 <./Vinograd4.png>]
 <Optimized1.png, id=68, 229.60782pt x 565.36218pt>
 File: Optimized1.png Graphic file (type png)
 <use Optimized1.png>
-Package pdftex.def Info: Optimized1.png  used on input line 298.
+Package pdftex.def Info: Optimized1.png  used on input line 297.
 (pdftex.def)             Requested size: 229.60725pt x 565.3608pt.
  [14 <./Optimized1.png>]
 <Optimized2.png, id=72, 146.79843pt x 671.50874pt>
 File: Optimized2.png Graphic file (type png)
 <use Optimized2.png>
-Package pdftex.def Info: Optimized2.png  used on input line 305.
+Package pdftex.def Info: Optimized2.png  used on input line 304.
 (pdftex.def)             Requested size: 132.11736pt x 604.3523pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--306
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
 []\T2A/cmr/m/n/12 Рис. 2.8: |Оп-ти-ми-зи-ро-ван-ный ал-го-ритм Ви-но-гра-да умн
 о-же-ния мат-
  []
@@ -1102,10 +1102,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 306--306
 <Optimized3.png, id=76, 181.42781pt x 563.85657pt>
 File: Optimized3.png Graphic file (type png)
 <use Optimized3.png>
-Package pdftex.def Info: Optimized3.png  used on input line 312.
+Package pdftex.def Info: Optimized3.png  used on input line 311.
 (pdftex.def)             Requested size: 181.42737pt x 563.8552pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--313
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
 []\T2A/cmr/m/n/12 Рис. 2.9: |Оп-ти-ми-зи-ро-ван-ный ал-го-ритм Ви-но-гра-да умн
 о-же-ния мат-
  []
@@ -1114,16 +1114,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 313--313
 <Optimized4.png, id=80, 187.45032pt x 420.06938pt>
 File: Optimized4.png Graphic file (type png)
 <use Optimized4.png>
-Package pdftex.def Info: Optimized4.png  used on input line 319.
+Package pdftex.def Info: Optimized4.png  used on input line 318.
 (pdftex.def)             Requested size: 187.44984pt x 420.06836pt.
 
-Underfull \hbox (badness 7685) in paragraph at lines 320--320
+Underfull \hbox (badness 7685) in paragraph at lines 319--319
 []\T2A/cmr/m/n/12 Рис. 2.10: |Оп-ти-ми-зи-ро-ван-ный ал-го-ритм Ви-но-гра-да ум
 но-же-ния мат-
  []
 
 [17 <./Optimized4.png>]
-Overfull \hbox (46.80518pt too wide) detected at line 333
+Overfull \hbox (46.80518pt too wide) detected at line 332
 \OML/cmm/m/it/12 f[] \OT1/cmr/m/n/12 = 2 + \OML/cmm/m/it/12 M\OT1/cmr/m/n/12 (2
  + 2 + \OML/cmm/m/it/12 Q\OT1/cmr/m/n/12 (2 + 2 + \OML/cmm/m/it/12 N\OT1/cmr/m/
 n/12 (2 + 8 + 1 + 1 + 1))) = 13\OML/cmm/m/it/12 MNQ \OT1/cmr/m/n/12 + 4\OML/cmm
@@ -1132,104 +1132,94 @@ n/12 (2 + 8 + 1 + 1 + 1))) = 13\OML/cmm/m/it/12 MNQ \OT1/cmr/m/n/12 + 4\OML/cmm
  []
 
 
-Overfull \hbox (44.68654pt too wide) detected at line 346
+Overfull \hbox (44.68654pt too wide) detected at line 345
 []
  []
 
 
-Overfull \hbox (48.95563pt too wide) detected at line 372
+Overfull \hbox (48.95563pt too wide) detected at line 371
 []
  []
 
 [18] [19]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 408--408
+Overfull \hbox (6.0pt too wide) in paragraph at lines 407--407
 [][][][][][][] 
  []
 
 LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
-408.
+407.
 (E:\MiKTeX\tex/latex/cyrillic\t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-409.
+408.
 
 (E:\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    Trying to load font information for OMS+cmss on input line 
-419.
-LaTeX Font Info:    No file OMScmss.fd. on input line 419.
+418.
+LaTeX Font Info:    No file OMScmss.fd. on input line 418.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textasteriskcentered' on input line 419.
+(Font)              for symbol `textasteriskcentered' on input line 418.
 
 [20
 
 ]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 424--424
+Overfull \hbox (6.0pt too wide) in paragraph at lines 423--423
 [][][][][][][] 
  []
 
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 448.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 447.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 448.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 447.
 [21]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 462--462
+Overfull \hbox (6.0pt too wide) in paragraph at lines 461--461
 [][][][][][][] 
  []
 
 [22]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--553
+Underfull \hbox (badness 10000) in paragraph at lines 502--513
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--553
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 503--553
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 503--553
+Underfull \hbox (badness 10000) in paragraph at lines 514--524
 
  []
 
 [23
 
 ]
-Overfull \hbox (20.79395pt too wide) in paragraph at lines 558--559
-[]\T2A/cmr/m/n/12 2-ая циф-ра - ре-зуль-тат ра-бо-ты мат-рич-но-го ал-го-рит-ма
- Дамерау-Левенштейна 
+Underfull \hbox (badness 10000) in paragraph at lines 526--536
+
  []
 
 
-Overfull \hbox (24.38333pt too wide) in paragraph at lines 559--560
-[]\T2A/cmr/m/n/12 3-я циф-ра - ре-зуль-тат ра-бо-ты ре-кур-сив-но-го ал-го-рит-
-ма Дамерау-Левенштейна 
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+
  []
 
 
-Overfull \hbox (46.79524pt too wide) in paragraph at lines 565--586
+Overfull \hbox (69.17607pt too wide) in paragraph at lines 542--563
  [] 
  []
 
-[24]
 PGFPlots: reading {StandardEven.dat}
 PGFPlots: reading {VinogradEven.dat}
 PGFPlots: reading {OptimizedEven.dat}
- [25] [26] [27
+PGFPlots: reading {StandardOdd.dat}
+PGFPlots: reading {VinogradOdd.dat}
+PGFPlots: reading {OptimizedOdd.dat}
+[24] [25] [26
 
 ] (LR_2.aux)
 
@@ -1237,13 +1227,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 29864 strings out of 492452
- 728575 string characters out of 3138192
- 1214735 words of memory out of 3000000
- 33709 multiletter control sequences out of 15000+200000
+ 29878 strings out of 492452
+ 728849 string characters out of 3138192
+ 1219707 words of memory out of 3000000
+ 33723 multiletter control sequences out of 15000+200000
  21464 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,19n,98p,1026b,2301s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,19n,98p,1083b,2301s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\dmitl\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 ss1095.pk> <C:\Users\dmitl\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/d
 pi600\latt1095.pk> <C:\Users\dmitl\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/
@@ -1263,9 +1253,9 @@ dpi600\lacc1728.pk> <C:\Users\dmitl\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh
 blic/amsfonts/cm/cmmi8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 <E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on LR_2.pdf (27 pages, 349235 bytes).
+Output written on LR_2.pdf (26 pages, 348229 bytes).
 PDF statistics:
- 567 PDF objects out of 1000 (max. 8388607)
+ 561 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
