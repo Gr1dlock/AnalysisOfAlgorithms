@@ -3,18 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ebfedc1-e4b3-4c54-9b6a-3ff45f37b8e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiplication.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.aux" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.aux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.log" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.tex" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.toc" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/OptimizedOdd.dat" beforeDir="false" afterPath="$PROJECT_DIR$/report/OptimizedOdd.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/StandardOdd.dat" beforeDir="false" afterPath="$PROJECT_DIR$/report/StandardOdd.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/StandartOdd.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/VinogradOdd.dat" beforeDir="false" afterPath="$PROJECT_DIR$/report/VinogradOdd.dat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +81,8 @@
       <updated>1570893676631</updated>
       <workItem from="1570893679443" duration="475000" />
       <workItem from="1570894230909" duration="7182000" />
-      <workItem from="1571163766800" duration="13402000" />
+      <workItem from="1571163766800" duration="14082000" />
+      <workItem from="1572100834085" duration="112000" />
     </task>
     <servers />
   </component>

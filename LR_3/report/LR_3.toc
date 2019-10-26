@@ -1,0 +1,18 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{Введение}{3}% 
+\contentsline {chapter}{\numberline {1}Аналитическая часть}{5}% 
+\contentsline {section}{\numberline {1.1}Сортировка вставками}{5}% 
+\contentsline {section}{\numberline {1.2}Сортировка расческой}{5}% 
+\contentsline {section}{\numberline {1.3}Быстрая сортировка}{6}% 
+\contentsline {chapter}{\numberline {2}Конструкторская часть}{7}% 
+\contentsline {section}{\numberline {2.1}Схемы алгоритмов}{8}% 
+\contentsline {section}{\numberline {2.2}Расчет трудоемкости}{11}% 
+\contentsline {chapter}{\numberline {3}Технологическая часть}{13}% 
+\contentsline {section}{\numberline {3.1}Требования к ПО}{13}% 
+\contentsline {section}{\numberline {3.2}Средства реализации}{13}% 
+\contentsline {section}{\numberline {3.3}Листинги кода}{13}% 
+\contentsline {chapter}{\numberline {4}Экспериментальная часть}{15}% 
+\contentsline {section}{\numberline {4.1}Примеры работы}{15}% 
+\contentsline {section}{\numberline {4.2}Функциональное тестирование}{16}% 
+\contentsline {section}{\numberline {4.3}Сравение алгоритмов по времени}{16}% 
+\contentsline {section}{Заключение}{18}% 
