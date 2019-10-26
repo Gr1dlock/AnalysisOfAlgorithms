@@ -72,4 +72,9 @@ if __name__ == '__main__':
     B = [[-3, 7], [1, -2]]
     C = multiplication.standard_multiply(A, B)
     print_matrix(C)
-
+    print()
+    C = multiplication.vinograd_multiply(A, B)
+    print_matrix(C)
+    print()
+    C = multiplication.optimized_vinograd_multiply(A, B)
+    print_matrix(C)
