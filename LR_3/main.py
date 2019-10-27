@@ -71,6 +71,11 @@ def time_count():
 
 
 if __name__ == '__main__':
-    time_count()
-
+    arr = [1]
+    res = sorting.insertion(arr)
+    print(res)
+    res = sorting.comb(arr)
+    print(res)
+    res = sorting.quick(arr)
+    print(res)
 

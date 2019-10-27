@@ -12,7 +12,7 @@
 \contentsline {section}{\numberline {3.2}Средства реализации}{13}% 
 \contentsline {section}{\numberline {3.3}Листинги кода}{13}% 
 \contentsline {chapter}{\numberline {4}Экспериментальная часть}{15}% 
-\contentsline {section}{\numberline {4.1}Примеры работы}{15}% 
-\contentsline {section}{\numberline {4.2}Функциональное тестирование}{16}% 
-\contentsline {section}{\numberline {4.3}Сравение алгоритмов по времени}{16}% 
-\contentsline {section}{Заключение}{18}% 
+\contentsline {section}{\numberline {4.1}Функциональное естирование}{15}% 
+\contentsline {section}{\numberline {4.2}Сравение алгоритмов по времени}{16}% 
+\contentsline {chapter}{Заключение}{19}% 
+\contentsline {chapter}{Список литературы}{20}% 

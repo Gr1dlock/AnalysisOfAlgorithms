@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  27 OCT 2019 01:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  27 OCT 2019 14:44
 entering extended mode
 **./LR_3.tex
 (LR_3.tex
@@ -412,6 +412,31 @@ Package color Info: Driver file: pdftex.def on input line 147.
 (E:\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
+(E:\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(E:\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count114
+\c@Blindtext=\count115
+\c@blind@countparstart=\count116
+\blind@countxx=\count117
+\blindtext@numBlindtext=\count118
+\blind@countyy=\count119
+\c@blindlist=\count120
+\c@blindlistlevel=\count121
+\c@blindlist@level=\count122
+\blind@listitem=\count123
+\c@blind@listcount=\count124
+\c@blind@levelcount=\count125
+\blind@mathformula=\count126
+\blind@Mathformula=\count127
+\c@blind@randomcount=\count128
+\c@blind@randommax=\count129
+\c@blind@pangramcount=\count130
+\c@blind@pangrammax=\count131
+)
 (E:\MiKTeX\tex/latex/pgfplots\pgfplots.sty
 (E:\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
 Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
@@ -478,14 +503,14 @@ Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
 \pgf@yd=\dimen143
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count114
-\c@pgf@countb=\count115
-\c@pgf@countc=\count116
-\c@pgf@countd=\count117
+\c@pgf@counta=\count132
+\c@pgf@countb=\count133
+\c@pgf@countc=\count134
+\c@pgf@countd=\count135
 \t@pgf@toka=\toks29
 \t@pgf@tokb=\toks30
 \t@pgf@tokc=\toks31
-\pgf@sys@id@count=\count118
+\pgf@sys@id@count=\count136
 
 (E:\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
@@ -500,8 +525,8 @@ File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
 )))
 (E:\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfsyssoftpath@smallbuffer@items=\count119
-\pgfsyssoftpath@bigbuffer@items=\count120
+\pgfsyssoftpath@smallbuffer@items=\count137
+\pgfsyssoftpath@bigbuffer@items=\count138
 )
 (E:\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
@@ -532,7 +557,7 @@ Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
 (E:\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
 (E:\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen144
-\pgfmath@count=\count121
+\pgfmath@count=\count139
 \pgfmath@box=\box33
 \pgfmath@toks=\toks32
 \pgfmath@stack@operand=\toks33
@@ -548,7 +573,7 @@ Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
 (E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
 (E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)))
 (E:\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count122
+\c@pgfmathroundto@lastzeros=\count140
 ))
 (E:\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
 (E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
@@ -583,7 +608,7 @@ File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \pgfpic=\box34
 \pgf@hbox=\box35
 \pgf@layerbox@main=\box36
-\pgf@picture@serial@count=\count123
+\pgf@picture@serial@count=\count141
 )
 (E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
@@ -611,8 +636,8 @@ File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 (E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \pgf@max=\dimen168
-\pgf@sys@shading@range@num=\count124
-\pgf@shadingcount=\count125
+\pgf@sys@shading@range@num=\count142
+\pgf@shadingcount=\count143
 )
 (E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
@@ -667,7 +692,7 @@ Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
 
 (E:\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@plot@mark@count=\count126
+\pgf@plot@mark@count=\count144
 \pgfplotmarksize=\dimen173
 )
 \tikz@lastx=\dimen174
@@ -682,18 +707,18 @@ File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \tikz@figbox@bg=\box40
 \tikz@tempbox=\box41
 \tikz@tempbox@bg=\box42
-\tikztreelevel=\count127
-\tikznumberofchildren=\count128
-\tikznumberofcurrentchild=\count129
-\tikz@fig@count=\count130
+\tikztreelevel=\count145
+\tikznumberofchildren=\count146
+\tikznumberofcurrentchild=\count147
+\tikz@fig@count=\count148
 
 (E:\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfmatrixcurrentrow=\count131
-\pgfmatrixcurrentcolumn=\count132
-\pgf@matrix@numberofcolumns=\count133
+\pgfmatrixcurrentrow=\count149
+\pgfmatrixcurrentcolumn=\count150
+\pgf@matrix@numberofcolumns=\count151
 )
-\tikz@expandcount=\count134
+\tikz@expandcount=\count152
 
 (E:\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code
 .tex
@@ -704,8 +729,8 @@ File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \t@pgfplots@tokb=\toks38
 \t@pgfplots@tokc=\toks39
 \pgfplots@tmpa=\dimen182
-\c@pgfplots@coordindex=\count135
-\c@pgfplots@scanlineindex=\count136
+\c@pgfplots@coordindex=\count153
+\c@pgfplots@scanlineindex=\count154
 
 (E:\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
 (E:\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
@@ -715,11 +740,11 @@ ex (E:\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex))
 (E:\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex)
 (E:\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex
 ) (E:\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count137
+\c@pgfplotsarray@tmp=\count155
 )
 (E:\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex)
 (E:\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count138
+\c@pgfplotstable@counta=\count156
 \t@pgfplotstable@a=\toks40
 )
 (E:\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex)
@@ -727,7 +752,7 @@ ex (E:\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex))
 (E:\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex))
 (E:\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
 (E:\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count139
+\c@pgfplotslibrarysurf@no=\count157
 
 (E:\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdfte
 x.def))) (E:\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
@@ -749,7 +774,7 @@ code.tex (E:\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
 \pgfdecoratedinputsegmentcompleteddistance=\dimen185
 \pgfdecoratedinputsegmentremainingdistance=\dimen186
 \pgf@decorate@distancetomove=\dimen187
-\pgf@decorate@repeatstate=\count140
+\pgf@decorate@repeatstate=\count158
 \pgfdecorationsegmentamplitude=\dimen188
 \pgfdecorationsegmentlength=\dimen189
 )
@@ -763,7 +788,7 @@ hing.code.tex))
 pathreplacing.code.tex
 (E:\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathrepl
 acing.code.tex))
-\pgfplots@numplots=\count141
+\pgfplots@numplots=\count159
 \pgfplots@xmin@reg=\dimen190
 \pgfplots@xmax@reg=\dimen191
 \pgfplots@ymin@reg=\dimen192
@@ -795,12 +820,12 @@ File: tikzlibrarydatavisualization.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 File: pgfmoduledatavisualization.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 
 (E:\MiKTeX\tex/generic/pgf/modules\pgfmoduleoo.code.tex
-\pgfoo@objectcount=\count142
-\pgfoothis@count=\count143
+\pgfoo@objectcount=\count160
+\pgfoothis@count=\count161
 \pgfoo@toks=\toks41
 )
-\pgf@lib@dv@cache@count=\count144
-\pgf@lib@dv@cache@count=\count145
+\pgf@lib@dv@cache@count=\count162
+\pgf@lib@dv@cache@count=\count163
 )
 (E:\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybackgrounds.
 code.tex
@@ -808,7 +833,7 @@ File: tikzlibrarybackgrounds.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \pgf@layerbox@background=\box44
 \pgf@layerboxsaved@background=\box45
 )
-\tikzdvvisualizercounter=\count146
+\tikzdvvisualizercounter=\count164
 )
 (E:\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries/datavisualization\tikzl
 ibrarydatavisualization.formats.functions.code.tex
@@ -833,8 +858,8 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@parindent=\dimen257
 \caption@hangindent=\dimen258
 )
-\c@caption@flags=\count147
-\c@ContinuedFloat=\count148
+\c@caption@flags=\count165
+\c@ContinuedFloat=\count166
 Package caption Info: listings package is loaded.
 )
 (E:\MiKTeX\tex/latex/listings\lstlang1.sty
@@ -879,20 +904,20 @@ LaTeX Warning: File `QuickInverse.dat' already exists on the system.
 (LR_3.aux)
 \openout1 = `LR_3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 171.
-LaTeX Font Info:    ... okay on input line 171.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 171.
-LaTeX Font Info:    ... okay on input line 171.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 171.
-LaTeX Font Info:    ... okay on input line 171.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 171.
-LaTeX Font Info:    ... okay on input line 171.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 171.
-LaTeX Font Info:    ... okay on input line 171.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 171.
-LaTeX Font Info:    ... okay on input line 171.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 171.
-LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -928,19 +953,19 @@ LaTeX Font Info:    ... okay on input line 171.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count149
+\c@lstlisting=\count167
 (E:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count150
+\scratchcounter=\count168
 \scratchdimen=\dimen259
 \scratchbox=\box46
-\nofMPsegments=\count151
-\nofMParguments=\count152
+\nofMPsegments=\count169
+\nofMParguments=\count170
 \everyMPshowfont=\toks42
-\MPscratchCnt=\count153
+\MPscratchCnt=\count171
 \MPscratchDim=\dimen260
-\MPnumerator=\count154
-\makeMPintoPDFobject=\count155
+\MPnumerator=\count172
+\makeMPintoPDFobject=\count173
 \everyMPtoPDFconversion=\toks43
 ) (E:\MiKTeX\tex/latex/oberdiek\epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -990,7 +1015,7 @@ ABD: EveryShipout initializing macros
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
- on input line 171.
+ on input line 172.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -1027,14 +1052,14 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 224--226
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
 
@@ -1050,29 +1075,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 224--226
 <Insertion.png, id=46, 176.91093pt x 516.42938pt>
 File: Insertion.png Graphic file (type png)
 <use Insertion.png>
-Package pdftex.def Info: Insertion.png  used on input line 265.
+Package pdftex.def Info: Insertion.png  used on input line 266.
 (pdftex.def)             Requested size: 176.91049pt x 516.42812pt.
  [8 <./Insertion.png>]
 <Comb.png, id=50, 264.23718pt x 585.68813pt>
 File: Comb.png Graphic file (type png)
 <use Comb.png>
-Package pdftex.def Info: Comb.png  used on input line 273.
+Package pdftex.def Info: Comb.png  used on input line 274.
 (pdftex.def)             Requested size: 264.23653pt x 585.68669pt.
  [9 <./Comb.png>]
-<Quick.png, id=54, 358.33875pt x 517.935pt>
+<Quick.png, id=54, 401.24907pt x 517.935pt>
 File: Quick.png Graphic file (type png)
 <use Quick.png>
-Package pdftex.def Info: Quick.png  used on input line 281.
-(pdftex.def)             Requested size: 358.33788pt x 517.93372pt.
+Package pdftex.def Info: Quick.png  used on input line 282.
+(pdftex.def)             Requested size: 401.24808pt x 517.93372pt.
  [10 <./Quick.png>]
-Overfull \hbox (34.91472pt too wide) detected at line 301
+Overfull \hbox (34.91472pt too wide) detected at line 302
  []$[]  \OML/cmm/m/it/12 f[] \OT1/cmr/m/n/12 = 2 + (\OML/cmm/m/it/12 N \OMS/cms
 y/m/n/12   \OT1/cmr/m/n/12 1)(2 + 2 + 2 + 3) + [](\OML/cmm/m/it/12 N \OMS/cmsy/
 m/n/12   \OT1/cmr/m/n/12 1) =$ 
  []
 
 
-Overfull \hbox (1.28462pt too wide) in paragraph at lines 313--314
+Overfull \hbox (1.28462pt too wide) in paragraph at lines 314--315
 []\T2A/cmr/bx/n/12 Ћучший слу-чай \T2A/cmr/m/n/12 - в наи-бо-лее сба-лан-си-ро-
 ван-ном ва-ри-ан-те при каж-
  []
@@ -1080,77 +1105,114 @@ Overfull \hbox (1.28462pt too wide) in paragraph at lines 313--314
 [11] [12]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 332--332
+Overfull \hbox (6.0pt too wide) in paragraph at lines 336--336
 [][][][][][][] 
  []
 
 LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
-332.
+336.
 (E:\MiKTeX\tex/latex/cyrillic\t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-333.
+337.
 
 (E:\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 336.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 340.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 336.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 340.
  [13
 
 ]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 346--346
+Overfull \hbox (6.0pt too wide) in paragraph at lines 350--350
 [][][][][][][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 362--362
+Overfull \hbox (6.0pt too wide) in paragraph at lines 366--366
 [][][][][][][] 
  []
 
 [14]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 386--397
+Underfull \hbox (badness 10000) in paragraph at lines 390--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--408
+Underfull \hbox (badness 10000) in paragraph at lines 390--396
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--403
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--403
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--417
 
  []
 
 [15
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 410--420
+Underfull \hbox (badness 10000) in paragraph at lines 418--424
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--423
+Underfull \hbox (badness 10000) in paragraph at lines 418--424
 
  []
 
+PGFPlots: reading {InsertionSorted.dat}
+PGFPlots: reading {CombSorted.dat}
+PGFPlots: reading {QuickSorted.dat}
+PGFPlots: reading {InsertionRandom.dat}
+PGFPlots: reading {CombRandom.dat}
+PGFPlots: reading {QuickRandom.dat}
+[16]
+PGFPlots: reading {InsertionInverse.dat}
+PGFPlots: reading {CombInverse.dat}
+PGFPlots: reading {QuickInverse.dat}
+ [17] [18] [19
 
-Overfull \hbox (69.17607pt too wide) in paragraph at lines 426--447
- [] 
- []
-
-[16] [17] [18
+] [20
 
 ] (LR_3.aux) ) 
 Here is how much of TeX's memory you used:
- 29348 strings out of 492452
- 714418 string characters out of 3138192
- 1138707 words of memory out of 3000000
- 33199 multiletter control sequences out of 15000+200000
+ 30026 strings out of 492452
+ 731153 string characters out of 3138192
+ 1150377 words of memory out of 3000000
+ 33869 multiletter control sequences out of 15000+200000
  21464 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,9n,98p,1379b,1449s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,19n,98p,1379b,2301s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\dmitl\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t
 2a/dpi600\lass1095.pk> <C:\Users\dmitl\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
 /lh/lh-t2a/dpi600\latt1095.pk> <C:\Users\dmitl\AppData\Local\MiKTeX\2.9\fonts/p
@@ -1172,9 +1234,9 @@ m/cmmi8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr6.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mr8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmsy8.pfb>
-Output written on LR_3.pdf (18 pages, 288406 bytes).
+Output written on LR_3.pdf (20 pages, 302015 bytes).
 PDF statistics:
- 548 PDF objects out of 1000 (max. 8388607)
+ 576 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
