@@ -2,16 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ebfedc1-e4b3-4c54-9b6a-3ff45f37b8e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LR_4/multiplication.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LR_4/multiplication.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LR_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LR_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.aux" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.aux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.log" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/LR_2.toc" beforeDir="false" afterPath="$PROJECT_DIR$/report/LR_2.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/OptimizedEven.dat" beforeDir="false" afterPath="$PROJECT_DIR$/report/OptimizedEven.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/StandardEven.dat" beforeDir="false" afterPath="$PROJECT_DIR$/report/StandardEven.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/VinogradEven.dat" beforeDir="false" afterPath="$PROJECT_DIR$/report/VinogradEven.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/.idea/LR_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/.idea/LR_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/CombInverse.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/CombInverse.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/CombRandom.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/CombRandom.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/CombSorted.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/CombSorted.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/InsertionInverse.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/InsertionInverse.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/InsertionRandom.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/InsertionRandom.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/InsertionSorted.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/InsertionSorted.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.log" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/QuickInverse.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/QuickInverse.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/QuickRandom.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/QuickRandom.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_3/report/QuickSorted.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/QuickSorted.dat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +47,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,6 +104,9 @@
       <workItem from="1570894230909" duration="7182000" />
       <workItem from="1571163766800" duration="13402000" />
       <workItem from="1571310445435" duration="1571000" />
+      <workItem from="1572612080422" duration="581000" />
+      <workItem from="1572640534433" duration="1621000" />
+      <workItem from="1572680136243" duration="206000" />
     </task>
     <servers />
   </component>
