@@ -3,6 +3,7 @@
 //
 
 #include "multiplication.h"
+#include <iostream>
 
 int vinograd(std::vector<std::vector<int>> &C, const std::vector<std::vector<int>> &A,
         const std::vector<std::vector<int>> &B)
@@ -117,26 +118,25 @@ int threadedVinograd(std::vector<std::vector<int>> &C, const std::vector<std::ve
     int q = B[0].size();
     std::vector<std::thread> threads;
     std::vector<int> mulA(m,0);
-    int start = 0;
-    int del = m / nThreads;
+    double start = 0;
+    double del = m / static_cast<double>(nThreads);
     for (int i = 0; i < nThreads; i++)
     {
-        threads.push_back(std::thread(computeMulA, std::ref(mulA), A, start,
-                                      std::min(start + del, m)));
+        threads.push_back(std::thread(computeMulA, std::ref(mulA), A, round(start),
+                                      round(start + del)));
         start += del;
     }
     for (auto &thread: threads)
     {
         thread.join();
     }
-
     start = 0;
-    del = q / nThreads;
+    del = q / static_cast<double>(nThreads);
     std::vector<int> mulB(q,0);
     for (int i = 0; i < nThreads; i++)
     {
         threads[i] = std::thread(computeMulB, std::ref(mulB), B,
-                                 start, std::min(start + del, m));
+                                 round(start), round(start + del));
         start += del;
     }
     for (auto &thread: threads)
@@ -146,11 +146,11 @@ int threadedVinograd(std::vector<std::vector<int>> &C, const std::vector<std::ve
 
     C = std::vector<std::vector<int>> (m, std::vector<int> (q, 0));
     start = 0;
-    del = m / nThreads;
+    del = m / static_cast<double>(nThreads);
     for (int i = 0; i < nThreads; i++)
     {
         threads[i] = std::thread(computeResult, std::ref(C), A, B,
-                                 mulA, mulB, start, std::min(start + del, m));
+                                 mulA, mulB, round(start), round(start + del));
         start += del;
     }
     for (auto &thread: threads)
