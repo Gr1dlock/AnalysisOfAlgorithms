@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ebfedc1-e4b3-4c54-9b6a-3ff45f37b8e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LR_4/multiplication.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LR_4/multiplication.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LR_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LR_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/.idea/LR_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/.idea/LR_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/CombInverse.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/CombInverse.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/CombRandom.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/CombRandom.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/CombSorted.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/CombSorted.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/InsertionInverse.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/InsertionInverse.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/InsertionRandom.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/InsertionRandom.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/InsertionSorted.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/InsertionSorted.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.aux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.log" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/LR_3.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/LR_3.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/QuickInverse.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/QuickInverse.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/QuickRandom.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/QuickRandom.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LR_3/report/QuickSorted.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_3/report/QuickSorted.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_4/multiplication/LR_4.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_4/multiplication/LR_4.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_4/report/LR_4.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_4/report/LR_4.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_4/report/LR_4.log" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_4/report/LR_4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_4/report/LR_4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_4/report/LR_4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_4/report/LR_4.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_4/report/LR_4.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_4/report/LR_4.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_4/report/LR_4.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LR_4/report/LR_4.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../LR_4/report/LR_4.toc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +92,7 @@
       <workItem from="1572612080422" duration="581000" />
       <workItem from="1572640534433" duration="1621000" />
       <workItem from="1572680136243" duration="206000" />
+      <workItem from="1573730963122" duration="166000" />
     </task>
     <servers />
   </component>
