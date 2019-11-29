@@ -2,6 +2,7 @@
 #include <queue>
 #include <thread>
 #include <mutex>
+#include <time.h>
 #include <chrono>
 #include <vector>
 #include <string>
@@ -13,7 +14,7 @@ using namespace std;
 
 inline time_t currentTime()
 {
-    return chrono::system_clock::to_time_t(chrono::high_resolution_clock::now());
+    return chrono::system_clock::to_time_t(chrono::system_clock::now());
 }
 
 const string timeToString(time_t t)
@@ -84,11 +85,11 @@ void secondLine()
             if (t0 != -1)
             {
                 logMtx1.lock();
-                string tmp = "Line 2: Starting processing item " + to_string(index) + ", value: " + to_string(t0) + " milliseconds";
+                string tmp = "Line 2: Starting processing item " + to_string(index) + ", value: " + to_string(t0 * 2) + " milliseconds";
                 logMessages.push_back({currentTime(), tmp});
                 logMtx1.unlock();
 
-                std::this_thread::sleep_for(std::chrono::milliseconds(t0));
+                std::this_thread::sleep_for(std::chrono::milliseconds(t0 * 2));
 
                 tmpMtx2.lock();
                 tmpQue2.push({index, t0});

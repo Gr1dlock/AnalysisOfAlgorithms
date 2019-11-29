@@ -1,0 +1,60 @@
+14:22:16 Line 1: Starting processing item 0, value: 1000 milliseconds
+14:22:17 Line 1: Finished processing item 0
+14:22:17 Line 2: Starting processing item 0, value: 1000 milliseconds
+14:22:17 Line 1: Starting processing item 1, value: 1000 milliseconds
+14:22:19 Line 2: Finished processing item 0
+14:22:19 Line 3: Starting 0 item, value: 1000 milliseconds
+14:22:19 Line 1: Finished processing item 1
+14:22:19 Line 2: Starting processing item 1, value: 1000 milliseconds
+14:22:19 Line 1: Starting processing item 2, value: 1000 milliseconds
+14:22:20 Line 3: Finished processing item 0
+14:22:21 Line 2: Finished processing item 1
+14:22:21 Line 3: Starting 1 item, value: 1000 milliseconds
+14:22:21 Line 1: Finished processing item 2
+14:22:21 Line 2: Starting processing item 2, value: 1000 milliseconds
+14:22:21 Line 1: Starting processing item 3, value: 1000 milliseconds
+14:22:22 Line 3: Finished processing item 1
+14:22:23 Line 2: Finished processing item 2
+14:22:23 Line 3: Starting 2 item, value: 1000 milliseconds
+14:22:23 Line 1: Finished processing item 3
+14:22:23 Line 2: Starting processing item 3, value: 1000 milliseconds
+14:22:23 Line 1: Starting processing item 4, value: 1000 milliseconds
+14:22:24 Line 3: Finished processing item 2
+14:22:25 Line 2: Finished processing item 3
+14:22:25 Line 3: Starting 3 item, value: 1000 milliseconds
+14:22:25 Line 1: Finished processing item 4
+14:22:25 Line 2: Starting processing item 4, value: 1000 milliseconds
+14:22:26 Line 3: Finished processing item 3
+14:22:27 Line 2: Finished processing item 4
+14:22:27 Line 3: Starting 4 item, value: 1000 milliseconds
+14:22:28 Line 3: Finished processing item 4
+14:35:33 Line 1: Starting processing item 0, value: 1000 milliseconds
+14:35:34 Line 1: Finished processing item 0
+14:35:34 Line 2: Starting processing item 0, value: 2000 milliseconds
+14:35:34 Line 1: Starting processing item 1, value: 1000 milliseconds
+14:35:36 Line 2: Finished processing item 0
+14:35:36 Line 3: Starting 0 item, value: 1000 milliseconds
+14:35:36 Line 1: Finished processing item 1
+14:35:36 Line 2: Starting processing item 1, value: 2000 milliseconds
+14:35:36 Line 1: Starting processing item 2, value: 1000 milliseconds
+14:35:37 Line 3: Finished processing item 0
+14:35:38 Line 2: Finished processing item 1
+14:35:38 Line 3: Starting 1 item, value: 1000 milliseconds
+14:35:38 Line 1: Finished processing item 2
+14:35:38 Line 2: Starting processing item 2, value: 2000 milliseconds
+14:35:38 Line 1: Starting processing item 3, value: 1000 milliseconds
+14:35:39 Line 3: Finished processing item 1
+14:35:40 Line 2: Finished processing item 2
+14:35:40 Line 3: Starting 2 item, value: 1000 milliseconds
+14:35:40 Line 1: Finished processing item 3
+14:35:40 Line 2: Starting processing item 3, value: 2000 milliseconds
+14:35:40 Line 1: Starting processing item 4, value: 1000 milliseconds
+14:35:41 Line 3: Finished processing item 2
+14:35:42 Line 2: Finished processing item 3
+14:35:42 Line 3: Starting 3 item, value: 1000 milliseconds
+14:35:42 Line 1: Finished processing item 4
+14:35:42 Line 2: Starting processing item 4, value: 2000 milliseconds
+14:35:43 Line 3: Finished processing item 3
+14:35:44 Line 2: Finished processing item 4
+14:35:44 Line 3: Starting 4 item, value: 1000 milliseconds
+14:35:45 Line 3: Finished processing item 4
