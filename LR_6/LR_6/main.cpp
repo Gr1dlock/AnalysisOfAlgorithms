@@ -67,45 +67,65 @@ void writeTime(const std::string &name, int &n, double &bruteTime, double &antTi
     {
         file << n << "," << bruteTime << "," << antTime << '\n';
         file.close();
+        std::cout << "Time was written successfully" << std::endl;
     }
 }
 
 int main()
 {
     srand(time(nullptr));
-    Matrix<double> matrix = {
-    { 0, 4, 8, 6, 8, 10, 9, 5, 8, 6 },
-    { 4, 0, 3, 8, 7, 8, 10, 4, 9, 6 },
-    { 8, 3, 0, 3, 6, 3, 6, 10, 7, 9 } ,
-    { 6, 8, 3, 0, 2, 8, 5, 3, 9, 9 },
-    { 8, 7, 6, 2, 0, 2, 7, 6, 6, 7 },
-    { 10, 8, 3, 8, 2, 0, 6, 3, 10, 9 },
-    { 9, 10, 6, 5, 7, 6, 0, 1, 7, 6 },
-    { 5, 4, 10, 3, 6, 3, 1, 0, 4, 1 },
-    { 8, 9, 7, 9, 6, 10, 7, 4, 0, 9 },
-    { 6, 6, 9, 9, 7, 9, 6, 1, 9, 0 }};
-    matrix.print();
-    Route result = bruteForce(matrix);
-    double diff;
-    double ideal = result.length;
-    for (double rho = 0; rho <= 1; rho += 0.25)
+//    Matrix<double> matrix = {
+//    { 0, 4, 8, 6, 8, 10, 9, 5, 8, 6 },
+//    { 4, 0, 3, 8, 7, 8, 10, 4, 9, 6 },
+//    { 8, 3, 0, 3, 6, 3, 6, 10, 7, 9 } ,
+//    { 6, 8, 3, 0, 2, 8, 5, 3, 9, 9 },
+//    { 8, 7, 6, 2, 0, 2, 7, 6, 6, 7 },
+//    { 10, 8, 3, 8, 2, 0, 6, 3, 10, 9 },
+//    { 9, 10, 6, 5, 7, 6, 0, 1, 7, 6 },
+//    { 5, 4, 10, 3, 6, 3, 1, 0, 4, 1 },
+//    { 8, 9, 7, 9, 6, 10, 7, 4, 0, 9 },
+//    { 6, 6, 9, 9, 7, 9, 6, 1, 9, 0 }};
+//    matrix.print();
+//    Route result = bruteForce(matrix);
+//    double diff;
+//    double ideal = result.length;
+//    for (double rho = 0; rho <= 1; rho += 0.25)
+//    {
+//        for (double alpha = 0; alpha <= 1; alpha += 0.25)
+//        {
+//            for (int t = 10; t <= 310; t += 10)
+//            {
+//                diff = 0;
+//                for (auto i = 0; i < 100; i++)
+//                {
+//                    result = ant(matrix, t, alpha, rho);
+//                    diff += result.length - ideal;
+//                }
+//                diff /= 100.0;
+//                comparison.push_back({t, alpha, rho, diff});
+//            }
+//        }
+//    }
+//    sortComparison();
+//    writeComparison("difference.txt");
+
+    Matrix<double> matrix;
+    double t1, t2;
+    for (int n = 2; n <= 20; n++)
     {
-        for (double alpha = 0; alpha <= 1; alpha += 0.25)
-        {
-            for (int t = 10; t <= 310; t += 10)
-            {
-                diff = 0;
-                for (auto i = 0; i < 100; i++)
-                {
-                    result = ant(matrix, t, alpha, rho);
-                    diff += result.length - ideal;
-                }
-                diff /= 100.0;
-                comparison.push_back({t, alpha, rho, diff});
-            }
-        }
+        matrix = Matrix<double>(n);
+        matrix.fillRandom();
+        auto start = std::chrono::high_resolution_clock::now();
+        for (auto i = 0; i < 10; i++)
+            bruteForce(matrix);
+        auto end = std::chrono::high_resolution_clock::now();
+        t1 = std::chrono::duration_cast<std::chrono::microseconds>(end - start).count() / 1000.0;
+        start = std::chrono::high_resolution_clock::now();
+        for (auto i = 0; i < 10; i++)
+            ant(matrix, 290, 0.75, 0.25);
+        end = std::chrono::high_resolution_clock::now();
+        t2 = std::chrono::duration_cast<std::chrono::microseconds>(end - start).count() / 1000.0;
+        writeTime("time.txt", n, t1, t2);
     }
-    sortComparison();
-    writeComparison("difference.txt");
     return 0;
 }

@@ -3,6 +3,7 @@
 
 #include <cmath>
 #include <cfloat>
+#include <algorithm>
 #include "matrix.hpp"
 
 #define START_TETA 10
