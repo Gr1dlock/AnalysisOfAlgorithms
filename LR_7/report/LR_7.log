@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.26)  18 DEC 2019 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.26)  19 DEC 2019 02:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**LR_6.tex
-(./LR_6.tex
+**LR_7.tex
+(./LR_7.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
@@ -906,34 +906,40 @@ File: lstlang1.sty 2019/02/27 1.8b listings language file
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 )
 
-LaTeX Warning: Overwriting file `./BruteForce.dat'.
+LaTeX Warning: Overwriting file `./Standart.dat'.
 
-\openout15 = `BruteForce.dat'.
-
-
-
-LaTeX Warning: Overwriting file `./Ant.dat'.
-
-\openout15 = `Ant.dat'.
+\openout15 = `Standart.dat'.
 
 
-(./LR_6.aux)
-\openout1 = `LR_6.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
+LaTeX Warning: Overwriting file `./KMP.dat'.
+
+\openout15 = `KMP.dat'.
+
+
+
+LaTeX Warning: Overwriting file `./BM.dat'.
+
+\openout15 = `BM.dat'.
+
+
+(./LR_7.aux)
+\openout1 = `LR_7.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 361.
+LaTeX Font Info:    ... okay on input line 361.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 361.
+LaTeX Font Info:    ... okay on input line 361.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 361.
+LaTeX Font Info:    ... okay on input line 361.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 361.
+LaTeX Font Info:    ... okay on input line 361.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 361.
+LaTeX Font Info:    ... okay on input line 361.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 361.
+LaTeX Font Info:    ... okay on input line 361.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 361.
+LaTeX Font Info:    ... okay on input line 361.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1035,14 +1041,14 @@ ABD: EveryShipout initializing macros
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
- on input line 93.
+ on input line 361.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./LR_6.toc
+(./LR_7.toc
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 4.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1066,27 +1072,27 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
 )
 \tf@toc=\write4
-\openout4 = `LR_6.toc'.
+\openout4 = `LR_7.toc'.
 
  [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
+Underfull \hbox (badness 10000) in paragraph at lines 391--393
 
  []
 
@@ -1094,156 +1100,114 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--125
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 403.
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 403.
+
 [4
 
-] [5] [6]
+] [5]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-<Ant1.png, id=38, 372.64218pt x 558.58687pt>
-File: Ant1.png Graphic file (type png)
-<use Ant1.png>
-Package pdftex.def Info: Ant1.png  used on input line 233.
-(pdftex.def)             Requested size: 272.02652pt x 407.76503pt.
-[7
+[6
 
- <./Ant1.png>]
-<Ant2.png, id=43, 287.57437pt x 648.17157pt>
-File: Ant2.png Graphic file (type png)
-<use Ant2.png>
-Package pdftex.def Info: Ant2.png  used on input line 238.
-(pdftex.def)             Requested size: 258.81454pt x 583.34901pt.
- [8 <./Ant2.png>]
-<Brute1.png, id=47, 286.82156pt x 569.12625pt>
-File: Brute1.png Graphic file (type png)
-<use Brute1.png>
-Package pdftex.def Info: Brute1.png  used on input line 247.
-(pdftex.def)             Requested size: 258.13701pt x 512.2089pt.
- [9 <./Brute1.png>]
-<Brute2.png, id=51, 470.50781pt x 639.89063pt>
-File: Brute2.png Graphic file (type png)
-<use Brute2.png>
-Package pdftex.def Info: Brute2.png  used on input line 256.
-(pdftex.def)             Requested size: 423.45311pt x 575.89624pt.
-
-Overfull \hbox (5.19943pt too wide) in paragraph at lines 256--257
- [] 
- []
-
-[10 <./Brute2.png>] [11]
+] [7]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
-Overfull \hbox (9.47075pt too wide) in paragraph at lines 277--278
- \T2A/cmr/m/n/12 В про-цес-се раз-ра-бот-ки про-грам-мы был спро-ек-ти-ро-ван ш
-аб-лон клас-са Matrix,
+Overfull \hbox (21.51317pt too wide) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 мя ра-бо-ты ал-го-рит-мов бы-ло за-ме-ре-но с по-мо-щью функ-ци
+и high_resolution_clock()
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 281--281
+Overfull \hbox (6.0pt too wide) in paragraph at lines 541--541
 [][][][][][][] 
  []
 
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 281
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 541
 .
 (/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 282
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 542
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 286
-.
-LaTeX Font Info:    No file OMScmss.fd. on input line 286.
-
-
-LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textasteriskcentered' on input line 286.
-
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 287.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 544.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 287.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 544.
+ [8
+
+]
+Overfull \hbox (11.81006pt too wide) in paragraph at lines 563--564
+[]\T2A/cmr/m/n/12 В ли-стин-гах 3.2 пред-став-ле-на ре-а-ли-за-ция ал-го-рит-ма
+ Кнута-Морриса-Пратта. 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 564--564
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 588--588
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 610--610
+[][][][][][][] 
+ []
+
+[9]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 643--643
+[][][][][][][] 
+ []
+
+[10] [11]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+PGFPlots: reading {Standart.dat}
+PGFPlots: reading {KMP.dat}
+PGFPlots: reading {BM.dat}
 [12
 
-] [13]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 370--370
-[][][][][][][] 
- []
+] [13] [14
 
-[14]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 394--394
-[][][][][][][] 
- []
-
-[15]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
-<Example3.png, id=74, 206.7725pt x 143.53625pt>
-File: Example3.png Graphic file (type png)
-<use Example3.png>
-Package pdftex.def Info: Example3.png  used on input line 435.
-(pdftex.def)             Requested size: 186.09352pt x 129.18141pt.
-<Example5.png, id=76, 209.28188pt x 168.63pt>
-File: Example5.png Graphic file (type png)
-<use Example5.png>
-Package pdftex.def Info: Example5.png  used on input line 440.
-(pdftex.def)             Requested size: 188.35193pt x 151.76558pt.
-<Example10.png, id=77, 248.93pt x 240.9pt>
-File: Example10.png Graphic file (type png)
-<use Example10.png>
-Package pdftex.def Info: Example10.png  used on input line 445.
-(pdftex.def)             Requested size: 224.03491pt x 216.80798pt.
-[16
-
- <./Example3.png> <./Example5.png>]
-<Matrix.png, id=83, 244.915pt x 176.66pt>
-File: Matrix.png Graphic file (type png)
-<use Matrix.png>
-Package pdftex.def Info: Matrix.png  used on input line 455.
-(pdftex.def)             Requested size: 220.42145pt x 158.99252pt.
- [17 <./Example10.png> <./Matrix.png>]
-[18]
-PGFPlots: reading {Ant.dat}
-PGFPlots: reading {BruteForce.dat}
- [19] [20
-
-] (./LR_6.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
+] (./LR_7.aux) ) 
 Here is how much of TeX's memory you used:
- 29511 strings out of 492616
- 732898 string characters out of 6129480
- 1191070 words of memory out of 5000000
- 32917 multiletter control sequences out of 15000+600000
- 21464 words of font info for 47 fonts, out of 8000000 for 9000
+ 29405 strings out of 492616
+ 731647 string characters out of 6129480
+ 1195069 words of memory out of 5000000
+ 32819 multiletter control sequences out of 15000+600000
+ 22282 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,19n,96p,1334b,2299s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
-cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/tex
-live/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texli
-ve/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive
-/2019/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb></usr/local/texlive/2
-019/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/201
-9/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/
-texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2019/te
-xmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2019/texm
-f-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/texlive/2019/texmf-
-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on LR_6.pdf (20 pages, 569846 bytes).
+ 69i,19n,96p,1152b,2296s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm
+-super-t2a.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx120
+0.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.
+pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pf
+b></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on LR_7.pdf (14 pages, 273131 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
+ 122 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
